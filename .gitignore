@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+
+# Local GIS datasets
+data/raw/
+data/processed/
+
+# Temporary Python files
+*.pyc

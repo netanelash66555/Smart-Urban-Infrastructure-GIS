@@ -1,0 +1,10 @@
+streamlit
+folium
+streamlit-folium
+pandas
+geopandas
+SQLAlchemy
+psycopg[binary]
+GeoAlchemy2
+python-dotenv
+openai
