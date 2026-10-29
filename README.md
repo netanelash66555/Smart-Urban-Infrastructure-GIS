@@ -211,6 +211,9 @@ Smart-Urban-Infrastructure-GIS/
 │   ├── cambridge_road_impact_analysis.png
 │   └── smart_urban_infrastructure.qgz
 │
+├── docs/
+│   └── screenshots/
+│
 ├── requirements.txt
 ├── .gitignore
 └── README.md
