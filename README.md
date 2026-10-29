@@ -27,6 +27,20 @@ The current implementation analyzes:
 - Street lights
 - Catch basins
 
+## Application Screenshots
+
+### Road Selection and AI Request
+![Road selection and AI request](docs/screenshots/road_selection_and_ai_request.png)
+
+### Analysis Results and AI Business Summary
+![Analysis results and AI business summary](docs/screenshots/analysis_results_and_ai_summary.png)
+
+### Affected Asset Details
+![Affected asset details](docs/screenshots/affected_asset_details.png)
+
+### Historical Run Reconstruction
+![Historical run reconstruction](docs/screenshots/historical_run_reconstruction.png)
+
 ## System Workflow
 
 ```text
